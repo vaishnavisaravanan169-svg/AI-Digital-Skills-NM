@@ -4,7 +4,7 @@
 Join us for an intensive workshop designed for engineering students to master modern digital competencies.
 
 ## 📍 Event Poster
-![Workshop Poster](Gemini_Generated_Image_deweqjdeweqjdewe)
+![Workshop Poster](Gemini_Generated_Image_deweqjdeweqjdewe.png)
 
 ## 🛠 Key Topics Covered
 - **Prompt Engineering & GenAI:** Learn to work with LLMs.
